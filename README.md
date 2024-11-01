@@ -1,6 +1,6 @@
 html>
     <head>
-        <title>Controle Diário e Mensal</title>
+        <title>Controle Diário de Balanças</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
@@ -32,7 +32,7 @@ html>
         </style>
     </head>
     <body>
-        <div class="header">Controle Diário e Mensal</div>
+        <div class="header">Controle Diário de Balanças</div>
         <table>
             <thead>
                 <tr>
